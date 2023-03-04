@@ -4,7 +4,8 @@
 int main(void)
 
 {
-	printf("Helloworld!");
+	printf("Hellouos!");
+	printf("Cityhawks");
 
 	return 0;
 
